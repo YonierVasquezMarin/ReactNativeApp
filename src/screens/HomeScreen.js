@@ -10,7 +10,7 @@ export default function HomeScreen(props) {
 
     return (
         <View>
-            <Text>Estamos desde HomeScreen</Text>
+            <Text>Estamos desde HomeScreen. Esto es React Native</Text>
             <Button title="Ir a Settings" onPress={goToSettings} />
         </View>
     )
